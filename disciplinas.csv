@@ -1,0 +1,55 @@
+sigla_disciplina,nome_disciplina
+ACU,Acústica
+AER,Aerofotogrametria
+ARQ,Arquitetura
+ATR,Aterramento
+AUT,Automação
+BAT,Batimetria
+CAR,Cartografia
+CFT,CFTV
+CTR,Controle de trens
+CVI,Comunicação Visual
+DES,Desapropriações
+DRE,Drenagem
+ECO,Estrutura Concreto
+EEC,Engenharia Econômica
+EEL,Engenharia Elétrica
+EEM,Engenharia Eletromecânica
+EET,Eletroeletronica
+EHI,Engenharia hidrossanitária e efluentes
+EME,Engenharia Mecânica
+EQP,Equipamentos Especiais
+ETR,Energia de tração elétrica
+GEO,Geometria
+GER,Geral
+GET,Geotecnia
+HID,Hidrologia
+ILU,Iluminação
+INT,Interferências
+LEV,Levantamento
+LUM,Luminotécnica
+MAM,Meio Ambiente
+MET,Estrutura Metálica
+MNU,Manutenção
+OBC,Obras complementares
+PAI,Paisagismo
+PAV,Pavimentação
+PLA,Planejamento
+PRO,Processos
+SAE,Sistemas de Energia
+SAU,Sistemas auxiliares
+SCI,SPCI
+SCO,Sistemas de Contenção
+SDA,SPDA
+SIN,Sinalização
+SFE,Superestrutura ferroviária
+SON,Sondagem
+SVI,Sistemas Viários
+TEL,Telecomunicações
+TER,Terraplanagem
+TOP,Topografia
+TUN,Túneis
+URB,Urbanismo
+UTI,Utilidades
+VPE,Via permanente
+HVA,HVAC

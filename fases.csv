@@ -1,0 +1,16 @@
+descricao_fase,sigla_fase
+As-built,AB
+Auditoria,AD
+Comissionamento e integração,CI
+Dados de entrada,DA
+Estudo de viabilidade - Contratado,EC
+Estudos preliminares,EP
+Estudo de viabilidade - MRS,EV
+Inspeções,IN
+N.A. (projeto sem etapas definidas),NA
+Construção e montagem,OB
+Projeto básico,PB
+Projeto conceitual,PC
+Projeto executivo,PE
+Projeto com finalidade de manutenção,PM
+Projeto com finalidade de operação,PO

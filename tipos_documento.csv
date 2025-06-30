@@ -1,0 +1,67 @@
+sigla_tipo,nome_tipo
+AP,Apresentação
+AT,Ata de reunião
+AN,Anexos
+BM,Boletim de Medição
+CD,Conjunto de dados nativo
+CL,Checklist
+CP,Critério de Projetos
+CQ,Croqui
+CR,Cronograma
+CT,Contrato
+DB,Diagrama de Blocos
+DE,Desenho
+DF,Desenho de Fabricação
+DS,Diagrama
+EB,BEP - Plano de Execução BIM
+EE,Especificação de equipamentos
+EM,Especificação de Materiais
+EQ,Esquemático
+ES,Especificação de serviço/atividade
+ET,Especificação Técnica
+FD,Folha de dados
+FI,Ficha
+FL,Fluxograma
+FO,Formulário
+GR,Guia de Remessa de Documentos
+ID,Índice de documentos/Lista de Documentos
+IN,Instrução Normativa
+IP,Instrução de Projeto
+IM,Imagem
+KZ,Arquivo de Referência (KMZ)
+LC,Lista de cabos
+LM,Lista de Materiais
+LS,Lista de Serviços
+MC,Memorial de cálculo
+MD,Memorial descritivo
+MF,Modelo Federado (BIM)
+MA,Modelo Autoral - Disciplina
+MI,Modelo integrado
+MT,Modelo de terreno ou superfície
+MM,Manual de Manutenção
+MN,Manual de Instalação
+MO,Manual de Operação
+MP,Modelo Paramétrico (BIM)
+MQ,Manual de programa de qualidade
+NS,Nota de serviço
+OG,Organograma
+OR,Planilha orçamentária
+OS,Ordem de serviço
+PE,Plano de Via Sinalizada Expandido para Bordo
+PG,Procedimento Gerencial
+PI,Parecer de Interfaces
+PP,Projeto padrão
+PQ,Planilha de quantidades
+PS,Plano de sondagem
+PT,Procedimento Técnico
+PV,Plano de Via Sinalizada
+RC,Rota de Cabos
+RT,Relatório técnico
+SS,Site Survey
+ST,Solicitação de Informação Técnica (SIT)
+SW,Software
+TB,Tabela
+TE,Termo de abertura de empreendimento
+TP,Termo de abertura de projeto
+TR,Termo de Referência
+XR,Arquivo de Referência
